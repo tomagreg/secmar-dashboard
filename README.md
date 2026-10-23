@@ -2,6 +2,8 @@
 
 Dashboard Streamlit de data storytelling sur les opérations de secours en mer coordonnées par les CROSS.
 
+**Application en ligne** : https://secmar-dashboard.streamlit.app/
+
 **Question centrale** : où, quand et dans quelles situations les opérations de secours deviennent-elles mortelles, et en quoi cela diffère-t-il de ce qui occupe le plus les CROSS ?
 
 **Public visé** : pratiquants et encadrants de loisirs nautiques, acteurs de la prévention.
